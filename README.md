@@ -23,7 +23,7 @@ Feel free to connect with me to explore opportunities for collaboration, share i
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sriramms" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="sriramms" height="30" width="40" /></a><a href="https://twitter.com/isriram_6"><img align="center" src="https://static.dezeen.com/uploads/2023/07/x-logo-twitter-elon-musk_dezeen_2364_col_0-1.jpg" style="border-radius: 50" height="30" width="40"/></a>
+<a href="https://linkedin.com/in/sriramms" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="sriramms" height="30" width="40" /></a><a href="https://twitter.com/isriram_6"><img align="center" src="https://static.dezeen.com/uploads/2023/07/x-logo-twitter-elon-musk_dezeen_2364_col_0-1.jpg" height="30" width="40"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
