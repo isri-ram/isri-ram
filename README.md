@@ -1,3 +1,5 @@
+![banner](https://github.com/isri-ram/isri-ram/assets/81283720/2b1310ad-65fe-424f-bf9d-88f1e8645c16)
+
 <h1 align="center">Hi 👋, I'm Sri Ram M S</h1>
 <h4 align="left">A final year student at Karunya University, Coimbatore with a passion for turning data into insights and solving real-world challenges through technology. My journey in the realm of computer science has led me to delve into the fascinating worlds of computer vision, data science, machine learning, and deep learning.
 
