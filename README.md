@@ -1,7 +1,8 @@
 ![banner](https://github.com/isri-ram/isri-ram/assets/81283720/2b1310ad-65fe-424f-bf9d-88f1e8645c16)
 
 <h1 align="center">Hi 👋, I'm Sri Ram M S</h1>
-<h4 align="left">A final year student at Karunya University, Coimbatore with a passion for turning data into insights and solving real-world challenges through technology. My journey in the realm of computer science has led me to delve into the fascinating worlds of computer vision, data science, machine learning, and deep learning.
+<p>
+A final year student at Karunya University, Coimbatore with a passion for turning data into insights and solving real-world challenges through technology. My journey in the realm of computer science has led me to delve into the fascinating worlds of computer vision, data science, machine learning, and deep learning.
 
 As a curious mind with an appetite for learning, I've embarked on various projects that reflect my dedication to these domains. From creating innovative computer vision applications that can interpret and analyze images, to diving into the intricate world of data science to uncover hidden patterns and trends, my projects embody my commitment to exploring the frontiers of technology.
 
@@ -11,7 +12,7 @@ I believe that the most remarkable innovations arise at the intersection of diff
 
 Feel free to connect with me to explore opportunities for collaboration, share insights, or simply have a chat about the exciting world of technology.
 
-"Embrace the challenge, harness the data, and let's shape the future together." - Sri Ram</h4>
+"Embrace the challenge, harness the data, and let's shape the future together." - Sri Ram
 <img align="right" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width=400 height=300 />
 - 🔭 I’m currently working on **A web extension to help the visually impaired use the internet as we do!**
 
@@ -22,7 +23,7 @@ Feel free to connect with me to explore opportunities for collaboration, share i
 - 📫 How to reach me **sriram.mssn@gmail.com**
 
 - ⚡ Fun fact **I'm a Steve Jobs fan**
-
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sriramms" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="sriramms" height="30" width="40" /></a><a href="https://twitter.com/isriram_6"><img align="center" src="https://static.dezeen.com/uploads/2023/07/x-logo-twitter-elon-musk_dezeen_2364_col_0-1.jpg" height="30" width="40"/></a>
